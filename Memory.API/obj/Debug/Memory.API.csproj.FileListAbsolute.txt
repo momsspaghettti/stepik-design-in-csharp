@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Memory.API\bin\Debug\Memory.API.exe.config
+C:\Users\Иван\Desktop\C#\Memory.API\bin\Debug\Memory.API.exe
+C:\Users\Иван\Desktop\C#\Memory.API\bin\Debug\Memory.API.pdb
+C:\Users\Иван\Desktop\C#\Memory.API\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Memory.API\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Memory.API\obj\Debug\Memory.API.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Memory.API\obj\Debug\Memory.API.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Memory.API\obj\Debug\Memory.API.exe
+C:\Users\Иван\Desktop\C#\Memory.API\obj\Debug\Memory.API.pdb

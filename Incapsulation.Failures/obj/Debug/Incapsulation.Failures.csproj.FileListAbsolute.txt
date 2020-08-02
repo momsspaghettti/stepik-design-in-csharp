@@ -1,0 +1,10 @@
+C:\Users\Иван\Desktop\C#\Incapsulation.Failures\bin\Debug\ReportMaker.cs
+C:\Users\Иван\Desktop\C#\Incapsulation.Failures\bin\Debug\Incapsulation.Failures.exe.config
+C:\Users\Иван\Desktop\C#\Incapsulation.Failures\bin\Debug\Incapsulation.Failures.exe
+C:\Users\Иван\Desktop\C#\Incapsulation.Failures\bin\Debug\Incapsulation.Failures.pdb
+C:\Users\Иван\Desktop\C#\Incapsulation.Failures\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Incapsulation.Failures\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Incapsulation.Failures\obj\Debug\Incapsulation.Failures.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Incapsulation.Failures\obj\Debug\Incapsulation.Failures.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Incapsulation.Failures\obj\Debug\Incapsulation.Failures.exe
+C:\Users\Иван\Desktop\C#\Incapsulation.Failures\obj\Debug\Incapsulation.Failures.pdb

@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Incapsulation.Weights\bin\Debug\Incapsulation.Weights.exe.config
+C:\Users\Иван\Desktop\C#\Incapsulation.Weights\bin\Debug\Incapsulation.Weights.exe
+C:\Users\Иван\Desktop\C#\Incapsulation.Weights\bin\Debug\Incapsulation.Weights.pdb
+C:\Users\Иван\Desktop\C#\Incapsulation.Weights\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Incapsulation.Weights\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Incapsulation.Weights\obj\Debug\Incapsulation.Weights.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Incapsulation.Weights\obj\Debug\Incapsulation.Weights.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Incapsulation.Weights\obj\Debug\Incapsulation.Weights.exe
+C:\Users\Иван\Desktop\C#\Incapsulation.Weights\obj\Debug\Incapsulation.Weights.pdb

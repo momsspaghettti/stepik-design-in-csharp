@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Memory.Timers.exe" fullname="C:/Users/Иван/Desktop/C#/Memory.Timers/bin/Debug/Memory.Timers.exe" testcasecount="5" result="Passed" start-time="2020-07-31 17:07:00Z" end-time="2020-07-31 17:07:01Z" duration="0.677752" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="3" random-seed="478199467">
+  <command-line><![CDATA[C:\Users\Иван\Desktop\C#\Memory.Timers\bin\Debug\Memory.Timers.exe]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1006" name="Memory.Timers.exe" fullname="C:/Users/Иван/Desktop/C#/Memory.Timers/bin/Debug/Memory.Timers.exe" runstate="Runnable" testcasecount="5" result="Passed" start-time="2020-07-31 17:07:00Z" end-time="2020-07-31 17:07:01Z" duration="0.677752" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Иван\Desktop\C#\Memory.Timers\bin\Debug" machine-name="HP-PC" user="Иван" user-domain="HP-PC" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\Иван\Desktop\C#\Memory.Timers\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="9844" />
+      <property name="_APPDOMAIN" value="Memory.Timers.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1007" name="Memory" fullname="Memory" runstate="Runnable" testcasecount="5" result="Passed" start-time="2020-07-31 17:07:00Z" end-time="2020-07-31 17:07:01Z" duration="0.666900" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+      <test-suite type="TestSuite" id="1008" name="Timers" fullname="Memory.Timers" runstate="Runnable" testcasecount="5" result="Passed" start-time="2020-07-31 17:07:00Z" end-time="2020-07-31 17:07:01Z" duration="0.662934" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+        <test-suite type="TestFixture" id="1000" name="Timer_should" fullname="Memory.Timers.Timer_should" classname="Memory.Timers.Timer_should" runstate="Runnable" testcasecount="5" result="Passed" start-time="2020-07-31 17:07:00Z" end-time="2020-07-31 17:07:01Z" duration="0.657416" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+          <test-case id="1001" name="WorkInSimplestCase" fullname="Memory.Timers.Timer_should.WorkInSimplestCase" methodname="WorkInSimplestCase" classname="Memory.Timers.Timer_should" runstate="Runnable" seed="477058037" result="Passed" start-time="2020-07-31 17:07:00Z" end-time="2020-07-31 17:07:00Z" duration="0.006086" asserts="0" />
+          <test-case id="1004" name="WorkWithDeepNesting" fullname="Memory.Timers.Timer_should.WorkWithDeepNesting" methodname="WorkWithDeepNesting" classname="Memory.Timers.Timer_should" runstate="Runnable" seed="521957489" result="Passed" start-time="2020-07-31 17:07:00Z" end-time="2020-07-31 17:07:00Z" duration="0.000350" asserts="0" />
+          <test-case id="1003" name="WorkWithNesting" fullname="Memory.Timers.Timer_should.WorkWithNesting" methodname="WorkWithNesting" classname="Memory.Timers.Timer_should" runstate="Runnable" seed="126768257" result="Passed" start-time="2020-07-31 17:07:00Z" end-time="2020-07-31 17:07:00Z" duration="0.000309" asserts="0" />
+          <test-case id="1005" name="WorkWithNestingAndGiveCorrectTime" fullname="Memory.Timers.Timer_should.WorkWithNestingAndGiveCorrectTime" methodname="WorkWithNestingAndGiveCorrectTime" classname="Memory.Timers.Timer_should" runstate="Runnable" seed="412977400" result="Passed" start-time="2020-07-31 17:07:00Z" end-time="2020-07-31 17:07:01Z" duration="0.626869" asserts="3" />
+          <test-case id="1002" name="WorkWithTimerName" fullname="Memory.Timers.Timer_should.WorkWithTimerName" methodname="WorkWithTimerName" classname="Memory.Timers.Timer_should" runstate="Runnable" seed="342707202" result="Passed" start-time="2020-07-31 17:07:01Z" end-time="2020-07-31 17:07:01Z" duration="0.000244" asserts="0" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

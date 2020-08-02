@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Delegates.PairsAnalysis.exe" fullname="C:/Users/Иван/Desktop/C#/Delegates.PairsAnalysis/bin/Debug/Delegates.PairsAnalysis.exe" testcasecount="4" result="Passed" start-time="2020-07-28 20:35:16Z" end-time="2020-07-28 20:35:16Z" duration="0.092590" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="4" random-seed="1764742202">
+  <command-line><![CDATA[C:\Users\Иван\Desktop\C#\Delegates.PairsAnalysis\bin\Debug\Delegates.PairsAnalysis.exe]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1005" name="Delegates.PairsAnalysis.exe" fullname="C:/Users/Иван/Desktop/C#/Delegates.PairsAnalysis/bin/Debug/Delegates.PairsAnalysis.exe" runstate="Runnable" testcasecount="4" result="Passed" start-time="2020-07-28 20:35:16Z" end-time="2020-07-28 20:35:16Z" duration="0.092590" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Иван\Desktop\C#\Delegates.PairsAnalysis\bin\Debug" machine-name="HP-PC" user="Иван" user-domain="HP-PC" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\Иван\Desktop\C#\Delegates.PairsAnalysis\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="15608" />
+      <property name="_APPDOMAIN" value="Delegates.PairsAnalysis.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1006" name="Delegates" fullname="Delegates" runstate="Runnable" testcasecount="4" result="Passed" start-time="2020-07-28 20:35:16Z" end-time="2020-07-28 20:35:16Z" duration="0.080954" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+      <test-suite type="TestSuite" id="1007" name="PairsAnalysis" fullname="Delegates.PairsAnalysis" runstate="Runnable" testcasecount="4" result="Passed" start-time="2020-07-28 20:35:16Z" end-time="2020-07-28 20:35:16Z" duration="0.077646" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+        <test-suite type="TestFixture" id="1000" name="Analysis_should" fullname="Delegates.PairsAnalysis.Analysis_should" classname="Delegates.PairsAnalysis.Analysis_should" runstate="Runnable" testcasecount="4" result="Passed" start-time="2020-07-28 20:35:16Z" end-time="2020-07-28 20:35:16Z" duration="0.072734" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+          <test-case id="1001" name="ProcessDatesCorrectly" fullname="Delegates.PairsAnalysis.Analysis_should.ProcessDatesCorrectly" methodname="ProcessDatesCorrectly" classname="Delegates.PairsAnalysis.Analysis_should" runstate="Runnable" seed="1293594836" result="Passed" start-time="2020-07-28 20:35:16Z" end-time="2020-07-28 20:35:16Z" duration="0.035101" asserts="1" />
+          <test-case id="1004" name="ProcessDoublesCorrectly" fullname="Delegates.PairsAnalysis.Analysis_should.ProcessDoublesCorrectly" methodname="ProcessDoublesCorrectly" classname="Delegates.PairsAnalysis.Analysis_should" runstate="Runnable" seed="2019792075" result="Passed" start-time="2020-07-28 20:35:16Z" end-time="2020-07-28 20:35:16Z" duration="0.004065" asserts="1" />
+          <test-case id="1002" name="ThrowsAtEmptyCollection" fullname="Delegates.PairsAnalysis.Analysis_should.ThrowsAtEmptyCollection" methodname="ThrowsAtEmptyCollection" classname="Delegates.PairsAnalysis.Analysis_should" runstate="Runnable" seed="1716195495" result="Passed" start-time="2020-07-28 20:35:16Z" end-time="2020-07-28 20:35:16Z" duration="0.013398" asserts="1" />
+          <test-case id="1003" name="ThrowsAtOneElementCollection" fullname="Delegates.PairsAnalysis.Analysis_should.ThrowsAtOneElementCollection" methodname="ThrowsAtOneElementCollection" classname="Delegates.PairsAnalysis.Analysis_should" runstate="Runnable" seed="1901720545" result="Passed" start-time="2020-07-28 20:35:16Z" end-time="2020-07-28 20:35:16Z" duration="0.000561" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

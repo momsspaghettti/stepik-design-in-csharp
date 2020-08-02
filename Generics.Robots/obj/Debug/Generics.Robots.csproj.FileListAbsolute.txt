@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Generics.Robots\bin\Debug\Generics.Robots.exe.config
+C:\Users\Иван\Desktop\C#\Generics.Robots\bin\Debug\Generics.Robots.exe
+C:\Users\Иван\Desktop\C#\Generics.Robots\bin\Debug\Generics.Robots.pdb
+C:\Users\Иван\Desktop\C#\Generics.Robots\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Generics.Robots\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Generics.Robots\obj\Debug\Generics.Robots.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Generics.Robots\obj\Debug\Generics.Robots.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Generics.Robots\obj\Debug\Generics.Robots.exe
+C:\Users\Иван\Desktop\C#\Generics.Robots\obj\Debug\Generics.Robots.pdb

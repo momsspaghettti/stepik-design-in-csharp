@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Memory.Timers\bin\Debug\Memory.Timers.exe.config
+C:\Users\Иван\Desktop\C#\Memory.Timers\bin\Debug\Memory.Timers.exe
+C:\Users\Иван\Desktop\C#\Memory.Timers\bin\Debug\Memory.Timers.pdb
+C:\Users\Иван\Desktop\C#\Memory.Timers\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Memory.Timers\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Memory.Timers\obj\Debug\Memory.Timers.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Memory.Timers\obj\Debug\Memory.Timers.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Memory.Timers\obj\Debug\Memory.Timers.exe
+C:\Users\Иван\Desktop\C#\Memory.Timers\obj\Debug\Memory.Timers.pdb

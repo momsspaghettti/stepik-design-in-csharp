@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Inheritance.Geometry\bin\Debug\Inheritance.Virtual.exe.config
+C:\Users\Иван\Desktop\C#\Inheritance.Geometry\bin\Debug\Inheritance.Virtual.exe
+C:\Users\Иван\Desktop\C#\Inheritance.Geometry\bin\Debug\Inheritance.Virtual.pdb
+C:\Users\Иван\Desktop\C#\Inheritance.Geometry\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Inheritance.Geometry\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Inheritance.Geometry\obj\Debug\Inheritance.Geometry.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Inheritance.Geometry\obj\Debug\Inheritance.Geometry.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Inheritance.Geometry\obj\Debug\Inheritance.Virtual.exe
+C:\Users\Иван\Desktop\C#\Inheritance.Geometry\obj\Debug\Inheritance.Virtual.pdb

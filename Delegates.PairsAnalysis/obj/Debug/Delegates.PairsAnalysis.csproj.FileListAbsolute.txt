@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Delegates.PairsAnalysis\bin\Debug\Delegates.PairsAnalysis.exe.config
+C:\Users\Иван\Desktop\C#\Delegates.PairsAnalysis\bin\Debug\Delegates.PairsAnalysis.exe
+C:\Users\Иван\Desktop\C#\Delegates.PairsAnalysis\bin\Debug\Delegates.PairsAnalysis.pdb
+C:\Users\Иван\Desktop\C#\Delegates.PairsAnalysis\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Delegates.PairsAnalysis\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Delegates.PairsAnalysis\obj\Debug\Delegates.PairsAnalysis.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Delegates.PairsAnalysis\obj\Debug\Delegates.PairsAnalysis.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Delegates.PairsAnalysis\obj\Debug\Delegates.PairsAnalysis.exe
+C:\Users\Иван\Desktop\C#\Delegates.PairsAnalysis\obj\Debug\Delegates.PairsAnalysis.pdb

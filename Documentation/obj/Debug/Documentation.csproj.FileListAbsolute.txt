@@ -1,0 +1,8 @@
+C:\Users\Иван\Desktop\C#\Documentation\bin\Debug\Documentation.exe.config
+C:\Users\Иван\Desktop\C#\Documentation\bin\Debug\Documentation.exe
+C:\Users\Иван\Desktop\C#\Documentation\bin\Debug\Documentation.pdb
+C:\Users\Иван\Desktop\C#\Documentation\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Documentation\obj\Debug\Documentation.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Documentation\obj\Debug\Documentation.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Documentation\obj\Debug\Documentation.exe
+C:\Users\Иван\Desktop\C#\Documentation\obj\Debug\Documentation.pdb

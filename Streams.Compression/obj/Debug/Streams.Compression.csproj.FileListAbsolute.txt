@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Streams.Compression\bin\Debug\Streams.Compression.exe.config
+C:\Users\Иван\Desktop\C#\Streams.Compression\bin\Debug\Streams.Compression.exe
+C:\Users\Иван\Desktop\C#\Streams.Compression\bin\Debug\Streams.Compression.pdb
+C:\Users\Иван\Desktop\C#\Streams.Compression\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Streams.Compression\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Streams.Compression\obj\Debug\Streams.Compression.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Streams.Compression\obj\Debug\Streams.Compression.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Streams.Compression\obj\Debug\Streams.Compression.exe
+C:\Users\Иван\Desktop\C#\Streams.Compression\obj\Debug\Streams.Compression.pdb

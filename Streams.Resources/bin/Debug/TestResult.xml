@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Streams.Resources.exe" fullname="C:/Users/Иван/Desktop/C#/Streams.Resources/bin/Debug/Streams.Resources.exe" testcasecount="4" result="Passed" start-time="2020-08-02 08:35:58Z" end-time="2020-08-02 08:35:58Z" duration="0.087747" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="7" random-seed="779388216">
+  <command-line><![CDATA[C:\Users\Иван\Desktop\C#\Streams.Resources\bin\Debug\Streams.Resources.exe]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1005" name="Streams.Resources.exe" fullname="C:/Users/Иван/Desktop/C#/Streams.Resources/bin/Debug/Streams.Resources.exe" runstate="Runnable" testcasecount="4" result="Passed" start-time="2020-08-02 08:35:58Z" end-time="2020-08-02 08:35:58Z" duration="0.087747" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="7">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Иван\Desktop\C#\Streams.Resources\bin\Debug" machine-name="HP-PC" user="Иван" user-domain="HP-PC" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\Иван\Desktop\C#\Streams.Resources\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="5920" />
+      <property name="_APPDOMAIN" value="Streams.Resources.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1006" name="Streams" fullname="Streams" runstate="Runnable" testcasecount="4" result="Passed" start-time="2020-08-02 08:35:58Z" end-time="2020-08-02 08:35:58Z" duration="0.072130" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="7">
+      <test-suite type="TestSuite" id="1007" name="Resources" fullname="Streams.Resources" runstate="Runnable" testcasecount="4" result="Passed" start-time="2020-08-02 08:35:58Z" end-time="2020-08-02 08:35:58Z" duration="0.064951" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="7">
+        <test-suite type="TestFixture" id="1000" name="ResourceStream_should" fullname="Streams.Resources.ResourceStream_should" classname="Streams.Resources.ResourceStream_should" runstate="Runnable" testcasecount="4" result="Passed" start-time="2020-08-02 08:35:58Z" end-time="2020-08-02 08:35:58Z" duration="0.057956" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="7">
+          <test-case id="1001" name="ReadKey1" fullname="Streams.Resources.ResourceStream_should.ReadKey1" methodname="ReadKey1" classname="Streams.Resources.ResourceStream_should" runstate="Runnable" seed="1802364765" result="Passed" start-time="2020-08-02 08:35:58Z" end-time="2020-08-02 08:35:58Z" duration="0.021170" asserts="2" />
+          <test-case id="1002" name="ReadKey2" fullname="Streams.Resources.ResourceStream_should.ReadKey2" methodname="ReadKey2" classname="Streams.Resources.ResourceStream_should" runstate="Runnable" seed="2104181505" result="Passed" start-time="2020-08-02 08:35:58Z" end-time="2020-08-02 08:35:58Z" duration="0.000711" asserts="2" />
+          <test-case id="1003" name="ReadKey3" fullname="Streams.Resources.ResourceStream_should.ReadKey3" methodname="ReadKey3" classname="Streams.Resources.ResourceStream_should" runstate="Runnable" seed="1526228436" result="Passed" start-time="2020-08-02 08:35:58Z" end-time="2020-08-02 08:35:58Z" duration="0.001124" asserts="2" />
+          <test-case id="1004" name="ReadUnknownKey" fullname="Streams.Resources.ResourceStream_should.ReadUnknownKey" methodname="ReadUnknownKey" classname="Streams.Resources.ResourceStream_should" runstate="Runnable" seed="962588436" result="Passed" start-time="2020-08-02 08:35:58Z" end-time="2020-08-02 08:35:58Z" duration="0.001866" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

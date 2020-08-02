@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Memory.API.exe" fullname="C:/Users/Иван/Desktop/C#/Memory.API/bin/Debug/Memory.API.exe" testcasecount="5" result="Passed" start-time="2020-07-31 14:18:05Z" end-time="2020-07-31 14:18:07Z" duration="2.051748" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="9" random-seed="1305093166">
+  <command-line><![CDATA[C:\Users\Иван\Desktop\C#\Memory.API\bin\Debug\Memory.API.exe]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1006" name="Memory.API.exe" fullname="C:/Users/Иван/Desktop/C#/Memory.API/bin/Debug/Memory.API.exe" runstate="Runnable" testcasecount="5" result="Passed" start-time="2020-07-31 14:18:05Z" end-time="2020-07-31 14:18:07Z" duration="2.051748" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Иван\Desktop\C#\Memory.API\bin\Debug" machine-name="HP-PC" user="Иван" user-domain="HP-PC" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\Иван\Desktop\C#\Memory.API\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="9496" />
+      <property name="_APPDOMAIN" value="Memory.API.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1007" name="Memory" fullname="Memory" runstate="Runnable" testcasecount="5" result="Passed" start-time="2020-07-31 14:18:05Z" end-time="2020-07-31 14:18:07Z" duration="2.041930" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+      <test-suite type="TestSuite" id="1008" name="API" fullname="Memory.API" runstate="Runnable" testcasecount="5" result="Passed" start-time="2020-07-31 14:18:05Z" end-time="2020-07-31 14:18:07Z" duration="2.038642" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+        <test-suite type="TestFixture" id="1000" name="APIObject_should" fullname="Memory.API.APIObject_should" classname="Memory.API.APIObject_should" runstate="Runnable" testcasecount="5" result="Passed" start-time="2020-07-31 14:18:05Z" end-time="2020-07-31 14:18:07Z" duration="2.033775" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+          <test-case id="1005" name="DisposeDontCrashFinalizer" fullname="Memory.API.APIObject_should.DisposeDontCrashFinalizer" methodname="DisposeDontCrashFinalizer" classname="Memory.API.APIObject_should" runstate="Runnable" seed="1807665092" result="Passed" start-time="2020-07-31 14:18:05Z" end-time="2020-07-31 14:18:06Z" duration="1.006602" asserts="2" />
+          <test-case id="1003" name="DontFailWhenTwoDisposeAreCalled" fullname="Memory.API.APIObject_should.DontFailWhenTwoDisposeAreCalled" methodname="DontFailWhenTwoDisposeAreCalled" classname="Memory.API.APIObject_should" runstate="Runnable" seed="387139613" result="Passed" start-time="2020-07-31 14:18:06Z" end-time="2020-07-31 14:18:06Z" duration="0.000990" asserts="2" />
+          <test-case id="1002" name="FreeResourcesInUsing" fullname="Memory.API.APIObject_should.FreeResourcesInUsing" methodname="FreeResourcesInUsing" classname="Memory.API.APIObject_should" runstate="Runnable" seed="1420567515" result="Passed" start-time="2020-07-31 14:18:06Z" end-time="2020-07-31 14:18:06Z" duration="0.000210" asserts="2" />
+          <test-case id="1001" name="FreeResourcesWhenDisposeCalled" fullname="Memory.API.APIObject_should.FreeResourcesWhenDisposeCalled" methodname="FreeResourcesWhenDisposeCalled" classname="Memory.API.APIObject_should" runstate="Runnable" seed="1499676827" result="Passed" start-time="2020-07-31 14:18:06Z" end-time="2020-07-31 14:18:06Z" duration="0.000181" asserts="2" />
+          <test-case id="1004" name="HaveFinalizer" fullname="Memory.API.APIObject_should.HaveFinalizer" methodname="HaveFinalizer" classname="Memory.API.APIObject_should" runstate="Runnable" seed="931184574" result="Passed" start-time="2020-07-31 14:18:06Z" end-time="2020-07-31 14:18:07Z" duration="1.001122" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

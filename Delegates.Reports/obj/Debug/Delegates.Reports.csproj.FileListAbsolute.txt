@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Delegates.Reports\obj\Debug\Delegates.Reports.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Delegates.Reports\bin\Debug\Delegates.Reports.exe.config
+C:\Users\Иван\Desktop\C#\Delegates.Reports\bin\Debug\Delegates.Reports.exe
+C:\Users\Иван\Desktop\C#\Delegates.Reports\bin\Debug\Delegates.Reports.pdb
+C:\Users\Иван\Desktop\C#\Delegates.Reports\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Delegates.Reports\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Delegates.Reports\obj\Debug\Delegates.Reports.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Delegates.Reports\obj\Debug\Delegates.Reports.exe
+C:\Users\Иван\Desktop\C#\Delegates.Reports\obj\Debug\Delegates.Reports.pdb

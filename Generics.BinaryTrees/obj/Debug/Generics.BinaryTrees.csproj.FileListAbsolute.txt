@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Generics.BinaryTrees\obj\Debug\Generics.BinaryTrees.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Generics.BinaryTrees\bin\Debug\Generics.BinaryTree.exe.config
+C:\Users\Иван\Desktop\C#\Generics.BinaryTrees\bin\Debug\Generics.BinaryTree.exe
+C:\Users\Иван\Desktop\C#\Generics.BinaryTrees\bin\Debug\Generics.BinaryTree.pdb
+C:\Users\Иван\Desktop\C#\Generics.BinaryTrees\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Generics.BinaryTrees\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Generics.BinaryTrees\obj\Debug\Generics.BinaryTrees.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Generics.BinaryTrees\obj\Debug\Generics.BinaryTree.exe
+C:\Users\Иван\Desktop\C#\Generics.BinaryTrees\obj\Debug\Generics.BinaryTree.pdb

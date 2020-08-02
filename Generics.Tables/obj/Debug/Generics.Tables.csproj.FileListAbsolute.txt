@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Generics.Tables\bin\Debug\Generics.Table.exe.config
+C:\Users\Иван\Desktop\C#\Generics.Tables\bin\Debug\Generics.Table.exe
+C:\Users\Иван\Desktop\C#\Generics.Tables\bin\Debug\Generics.Table.pdb
+C:\Users\Иван\Desktop\C#\Generics.Tables\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Generics.Tables\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Generics.Tables\obj\Debug\Generics.Tables.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Generics.Tables\obj\Debug\Generics.Tables.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Generics.Tables\obj\Debug\Generics.Table.exe
+C:\Users\Иван\Desktop\C#\Generics.Tables\obj\Debug\Generics.Table.pdb

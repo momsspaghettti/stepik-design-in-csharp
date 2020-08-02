@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Streams.Resources\bin\Debug\Streams.Resources.exe.config
+C:\Users\Иван\Desktop\C#\Streams.Resources\bin\Debug\Streams.Resources.exe
+C:\Users\Иван\Desktop\C#\Streams.Resources\bin\Debug\Streams.Resources.pdb
+C:\Users\Иван\Desktop\C#\Streams.Resources\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Streams.Resources\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Streams.Resources\obj\Debug\Streams.Resources.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Streams.Resources\obj\Debug\Streams.Resources.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Streams.Resources\obj\Debug\Streams.Resources.exe
+C:\Users\Иван\Desktop\C#\Streams.Resources\obj\Debug\Streams.Resources.pdb

@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Delegates.TreeTraversal\bin\Debug\Delegates.TreeTraversal.exe.config
+C:\Users\Иван\Desktop\C#\Delegates.TreeTraversal\bin\Debug\Delegates.TreeTraversal.exe
+C:\Users\Иван\Desktop\C#\Delegates.TreeTraversal\bin\Debug\Delegates.TreeTraversal.pdb
+C:\Users\Иван\Desktop\C#\Delegates.TreeTraversal\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Delegates.TreeTraversal\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Delegates.TreeTraversal\obj\Debug\Delegates.TreeTraversal.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Delegates.TreeTraversal\obj\Debug\Delegates.TreeTraversal.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Delegates.TreeTraversal\obj\Debug\Delegates.TreeTraversal.exe
+C:\Users\Иван\Desktop\C#\Delegates.TreeTraversal\obj\Debug\Delegates.TreeTraversal.pdb

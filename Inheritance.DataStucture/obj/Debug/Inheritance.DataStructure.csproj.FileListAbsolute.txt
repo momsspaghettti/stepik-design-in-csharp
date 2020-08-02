@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Inheritance.DataStucture\bin\Debug\Inheritance.DataStructure.exe.config
+C:\Users\Иван\Desktop\C#\Inheritance.DataStucture\bin\Debug\Inheritance.DataStructure.exe
+C:\Users\Иван\Desktop\C#\Inheritance.DataStucture\bin\Debug\Inheritance.DataStructure.pdb
+C:\Users\Иван\Desktop\C#\Inheritance.DataStucture\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Inheritance.DataStucture\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Inheritance.DataStucture\obj\Debug\Inheritance.DataStructure.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Inheritance.DataStucture\obj\Debug\Inheritance.DataStructure.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Inheritance.DataStucture\obj\Debug\Inheritance.DataStructure.exe
+C:\Users\Иван\Desktop\C#\Inheritance.DataStucture\obj\Debug\Inheritance.DataStructure.pdb

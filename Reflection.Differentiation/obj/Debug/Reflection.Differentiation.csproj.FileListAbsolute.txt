@@ -1,0 +1,9 @@
+C:\Users\Иван\Desktop\C#\Reflection.Differentiation\obj\Debug\Reflection.Differentiation.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\C#\Reflection.Differentiation\bin\Debug\Reflection.Differentiation.exe.config
+C:\Users\Иван\Desktop\C#\Reflection.Differentiation\bin\Debug\Reflection.Differentiation.exe
+C:\Users\Иван\Desktop\C#\Reflection.Differentiation\bin\Debug\Reflection.Differentiation.pdb
+C:\Users\Иван\Desktop\C#\Reflection.Differentiation\bin\Debug\nunit.framework.dll
+C:\Users\Иван\Desktop\C#\Reflection.Differentiation\bin\Debug\nunitlite.dll
+C:\Users\Иван\Desktop\C#\Reflection.Differentiation\obj\Debug\Reflection.Differentiation.csproj.CopyComplete
+C:\Users\Иван\Desktop\C#\Reflection.Differentiation\obj\Debug\Reflection.Differentiation.exe
+C:\Users\Иван\Desktop\C#\Reflection.Differentiation\obj\Debug\Reflection.Differentiation.pdb
